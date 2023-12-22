@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**cate-merritt/cate-merritt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Beige Modern Elegant Personal LinkedIn Banner](https://github.com/cate-merritt/cate-merritt/assets/113081027/f9fc0fde-0fbe-439e-957f-6739e0529fd9)
 
-Here are some ideas to get you started:
+Hi, I’m Cate! I’m interested in data analysis, web design and, front-end development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills include:
+HTML
+CSS
+JavaScript
+React
+MySQL
+Python
+
+Reach me on: https://www.linkedin.com/in/cate-merritt/
