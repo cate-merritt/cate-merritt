@@ -1,18 +1,9 @@
+<a href='https://postimg.cc/kB37q8Jw' target='_blank'><img src='https://i.postimg.cc/kB37q8Jw/Beige-Modern-Elegant-Personal-Linked-In-Banner.png' border='0' alt='Beige-Modern-Elegant-Personal-Linked-In-Banner'/></a>
+Hi, I’m Cate! I’m interested in accessible UX design, data visualization, and front-end development.
+<br><b><center>Skills:</center></b></br>
+<br><b><center>JavaScript</center></b></br>
+<br><b><center>HTML</center></b></br>
+<br><b><center>React</center></b></br>
 
-<p align=”center”>
+Reach out on: https://www.linkedin.com/in/cate-merritt
 
-<img width=”200" height=”200" src=”https://github.com/cate-merritt/cate-merritt/assets/113081027/f9fc0fde-0fbe-439e-957f-6739e0529fd9" alt=”my banner”>
-
-</p>
-
-Hi, I’m Cate! I’m interested in data analysis, web design and, front-end development.
-
-Skills include:
-HTML
-CSS
-JavaScript
-React
-MySQL
-Python
-
-Reach me on: https://www.linkedin.com/in/cate-merritt/
