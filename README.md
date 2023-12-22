@@ -6,7 +6,10 @@
 <h3 align="center">A passionate front-end developer with a passion for accessible design.</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> <div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
